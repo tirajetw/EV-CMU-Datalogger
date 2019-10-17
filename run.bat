@@ -1,0 +1,1 @@
+for %%i in (%USERPROFILE%\Desktop\STARTUP\*) do %%i
